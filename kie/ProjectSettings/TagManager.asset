@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Bullet
+  - Player2
   layers:
   - Default
   - TransparentFX
@@ -38,6 +41,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: fondo
+    uniqueID: 2193507205
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: luna
+    uniqueID: 2957942957
+    locked: 0
+  - name: player
+    uniqueID: 2870994667
     locked: 0
